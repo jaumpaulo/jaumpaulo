@@ -13,8 +13,8 @@ Estudante de Desenvolvimento de Sistemas | Aprendendo HTML e CSS | Futuro Dev Ja
 - Apaixonado por tecnologia e programação.
 
 ### Tecnologias que estou aprendendo:
-- HTML5
-- CSS3
+- ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26) 
+- ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6) 
 
 ### Meus objetivos:
 - Me tornar um desenvolvedor completo, começando pelo Front-end.
