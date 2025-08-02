@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o João! 👋</h1>
 
 <p align="center">
-Estudante de Desenvolvimento de Sistemas | Aprendendo HTML e CSS | Futuro Dev JavaScript
+Estudante de Desenvolvimento de Sistemas | Aprendendo JavaScript | Futuro Dev JavaScript
 </p>
 
 ---
