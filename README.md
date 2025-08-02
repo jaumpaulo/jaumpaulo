@@ -8,23 +8,17 @@ Estudante de Desenvolvimento de Sistemas | Aprendendo HTML e CSS | Futuro Dev Ja
 
 ### Sobre mim:
 - Estudante de **Desenvolvimento de Sistemas**.
-- Atualmente focado em **HTML** e **CSS**
-- Em breve começando a estudar **JavaScript**!
+- Atualmente focado em **JavaScript**
 - Apaixonado por tecnologia e programação.
 
-### Tecnologias que estou aprendendo:
-- ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26) 
-- ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6) 
 
 ### Meus objetivos:
-- Me tornar um desenvolvedor completo, começando pelo Front-end.
+- Quero me tornar um desenvolvedor full stack.
 - Criar projetos reais para praticar e mostrar meu progresso.
-- Construir uma base sólida para, no futuro, aprender Back-end e outras áreas.
+- Construir uma base sólida para, no futuro, aprender outras áreas.
 
 ---
 
-### Contato:
-- 📧 Email: shidp65@gmail.com
 - 🚀 Em breve: Meu portfólio online!
 
 ---
