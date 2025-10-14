@@ -8,7 +8,7 @@ Estudante de Desenvolvimento de Sistemas | Aprendendo JavaScript | Futuro Dev Ja
 
 ### Sobre mim:
 - Estudante de **Desenvolvimento de Sistemas**.
-- Atualmente focado em **JavaScript**
+- Atualmente focado em **C#**
 - Apaixonado por tecnologia e programação.
 
 
