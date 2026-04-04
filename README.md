@@ -20,7 +20,6 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 
 ### 📚 Estudando no momento
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#" alt="C#"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" width="50" title="Node.js" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React JS" alt="React JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
