@@ -6,7 +6,7 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 </p>
 
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" width="350"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -15,6 +15,25 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Apaixonado por tecnologia e programação
 - 🧠 Sempre buscando aprender algo novo
+
+---
+
+### 📚 Estudando no momento
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="50" title="Node.js" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React JS" alt="React JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
+</p>
+
+---
+
+### 🧰 Tecnologias
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
+</p>
 
 ---
 
