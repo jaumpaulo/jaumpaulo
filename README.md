@@ -15,6 +15,7 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Apaixonado por tecnologia e programação
 - 🧠 Sempre buscando aprender algo novo
+- 🎲 Apaixonado por RPG de mesa
 
 ---
 
