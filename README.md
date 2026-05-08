@@ -21,6 +21,8 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 ### 📚 Estudando no momento
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
+  <img src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" width="50" title="Supabase" alt="Supabase"/>
+  
 </p>
 
 ---
