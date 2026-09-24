@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudante de Desenvolvimento de Sistemas <br>
-Aprendendo JavaScript | Futuro Dev Full Stack
+ Aprendendo o máximo | Futuro Dev🐤
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@ Aprendendo JavaScript | Futuro Dev Full Stack
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Desenvolvimento de Sistemas**
-- 💻 Apaixonado por tecnologia e programação
+- 🎓 Estudante de **Desenvolvimento de Sistemas** na escola DRM
+- 💻 Fanático por tecnologias e programação
 - 🧠 Sempre buscando aprender algo novo
 - 🎲 Apaixonado por RPG de mesa
 
@@ -35,21 +35,7 @@ Aprendendo JavaScript | Futuro Dev Full Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
 </p>
 
-
 ---
 
-### 🎯 Meus objetivos
-- Me tornar um **desenvolvedor full stack**
-- Criar projetos reais para praticar e mostrar meu progresso
-- Construir uma base sólida para explorar outras áreas no futuro
-
----
-
-### 🚀 Em breve
-- Meu **portfólio online** 🌐
-
----
-
-<p align="center">
-  <i>"Código ruim é escrito por pessoas que copiam e colam sem entender."</i>
-</p>
+### Contato
+  <a href="https://www.instagram.com/jaum._.p/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
