@@ -11,27 +11,22 @@ Estudante de Desenvolvimento de Sistemas <br>
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Desenvolvimento de Sistemas** na escola DRM
-- 💻 Fanático por tecnologias e programação
-- 🧠 Sempre buscando aprender algo novo
-- 🎲 Apaixonado por RPG de mesa
+### Hobbies
+- Ouvir músicas
+- Estudar
+- Jogar Rpg de mesa
+- Organizar ideias
 
 ---
 
-### 📚 Linguagens
+### Tecnologias 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/csharp.png" width="50" title="C Sharp" alt="C Sharp"/>
-</p>
-
-### 🧩 Frameworks
-
-<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/csharp.png" width="50" title="C Sharp" alt="C Sharp"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
 </p>
 
